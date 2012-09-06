@@ -3,3 +3,5 @@ h1. batchzip
 Short shell script, which zips files with same basename (ignoring the extension).
 
 Can e.g. zip project.txt, project.docx, project.psd, project.xfc, project.png, project.pdf in directory to a sinlge zip file.
+
+For available options and help use -h flag.
