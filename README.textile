@@ -1,0 +1,3 @@
+h1. batchzip
+
+A small shell script tht zips files with same basename (ignoring the extension).
